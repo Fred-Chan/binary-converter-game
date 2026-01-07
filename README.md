@@ -71,7 +71,7 @@ cd binary-converter-game
 4. 保存设置
 
 ## 贡献
-
+Author: Zhangdongshuang @ITCCC
 欢迎提交 Issues 和 Pull Requests！
 
 ## 许可证
